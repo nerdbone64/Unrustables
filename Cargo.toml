@@ -1,0 +1,11 @@
+[package]
+name = "unrustables"
+version = "0.1.0"
+edition = "2024"
+description = "A crate containing things that should've been in Rust already."
+repository = "https://github.com/nerdbone64/Unrustables"
+readme = "README.md"
+keywords = ["utility"]
+categories = ["development-tools"]
+
+[dependencies]
